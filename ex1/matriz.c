@@ -13,7 +13,6 @@ Diagonal aloca_mat(int ordem){
         printf("Erro na alocacao dinamica.");
         exit(1);
     }
-
     return vet;
 }
 

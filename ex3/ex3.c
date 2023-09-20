@@ -22,7 +22,6 @@ int verifica_elementos(Matriz* mat){
             }
         }
     }
-
     return identidade;
 }
 
